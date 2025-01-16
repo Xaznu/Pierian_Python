@@ -1,0 +1,2 @@
+name = "Jose"
+print(f'My name is {name}')
