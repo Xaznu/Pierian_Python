@@ -1,2 +1,6 @@
 my_list = [1,2,3]
 len(my_list)
+another_list = [4,5]
+my_list + another_list
+
+another_list[0] = 'FOUR'
