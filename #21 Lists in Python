@@ -4,3 +4,7 @@ another_list = [4,5]
 my_list + another_list
 
 another_list[0] = 'FOUR'
+
+
+another_list.append('six')
+another.list.pop()
