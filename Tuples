@@ -1,0 +1,18 @@
+# Create a tuple
+t = (1,2,3)
+
+# Check len just like a list
+len(t)
+
+# Can also mix object types
+t = ('one',2)
+
+# Show
+t
+
+# Use indexing just like we did in lists
+t[0]
+
+# Slicing just like a list
+t[-1]
+
